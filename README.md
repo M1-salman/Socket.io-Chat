@@ -1,4 +1,4 @@
-# Socket.io-Chat
+# Socket.io-ChatApp
 This is a Bi-directional chat application built using React, TailwindCSS, Express and Socket.io. It allows users to send and receive real-time messages through a WebSocket connection.
 # Features
 - Real-time messaging: Users can send and receive messages instantly.
